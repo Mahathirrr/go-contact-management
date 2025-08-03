@@ -1,0 +1,14 @@
+server:
+  port:
+  host:
+
+database:
+  host:
+  port:
+  username:
+  password:
+  name:
+
+logging:
+  level:
+  format:
